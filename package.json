@@ -1,0 +1,12 @@
+{
+  "name": "chasmguide-checks",
+  "version": "1.3.0-beta.1",
+  "private": true,
+  "scripts": {
+    "test": "node tests/test_addon.cjs"
+  },
+  "devDependencies": {
+    "fengari": "0.1.5",
+    "luaparse": "0.3.1"
+  }
+}

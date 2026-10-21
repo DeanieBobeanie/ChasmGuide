@@ -1,0 +1,26 @@
+## Interface: 16001
+## Title: Chasm Guide
+## Notes: Forever dungeon quest guides, faction browser, optional waypoint arrow and quest automation.
+## Author: Chasm Guide
+## Version: 1.3.0-beta.1
+## OptionalDeps: TomTom
+## SavedVariablesPerCharacter: ChasmGuideDB
+Data.lua
+Lordaeron.lua
+Thanes.lua
+Shadowfang.lua
+Deadmines.lua
+WailingCaverns.lua
+CatalogData.lua
+SupplementalData.lua
+Excavation.lua
+Catalog.lua
+WowheadData.lua
+DungeonUpdate.lua
+Dalaran.lua
+QuestInfo.lua
+Overview.lua
+Engine.lua
+Automation.lua
+Navigation.lua
+UI.lua

@@ -1,0 +1,69 @@
+ChasmGuide 1.3.0 and ChasmGuideRXP 1.1.0
+Reviewed 17 October 2026
+
+Changes
+
+City of Dalaran now has four dungeon quests for each faction. The route collects outside pickups before entry, includes Horde key preparation, and returns each Heart of Disruption variant to the correct NPC. Alliance also gets the optional Southshore breadcrumb and Friend of the Kirin Tor follow-up. Outdoor NPC pins come from QuestieDB 1.0.6. Interior steps use quest objectives and written directions.
+
+Past Due is now in the Alliance Scarlet Monastery checklist. It starts at level 30 with Magus Olvek outside Dalaran. Recover The Lost Magic of the Runemasters in the Library and return to him.
+
+Excavation Site uses Blizzard's level range of 26-31. Razorfen Downs and Uldaman explain their beta access levels. Access levels do not guarantee that a group can clear the dungeon.
+
+Blizzard opened Dalaran on 8 October. The 15 October notes do not announce another dungeon opening. Five announced dungeons still have no verified route here: The Drowned City, Krol'dok Stronghold, Alcaz Prison, Blackmaw Hold and Shaper's Terrace.
+
+Blizzard also confirmed that Horde are attacked on sight in outdoor Dalaran, even after the key chain. Dungeon access is unaffected. Shrewd Negotiations stays as a blocked reference with no city waypoint or automatic quest step. Older articles describing unrestricted Horde city access are outdated.
+
+Upgrade
+
+Fully exit and restart WoW. The update adds files that a reload may not discover.
+
+ChasmGuide retains quest cursors and skips by quest ID for the changed routes. Finished routes stay finished. Use /cguide restart to review additions. Unmatched manual checkpoints return to the first step. The addon retains the old cursor and skips in its own saved data.
+
+In RestedXP, choose City of Dalaran [October update] or Scarlet Monastery [October update] under WoW Forever Dungeons. These changed routes have new names to prevent reuse of old step numbers. They begin at the first checkpoint and read completed quests from the game. Other route names remain unchanged.
+
+Arrow and automation switches still default to off. Existing settings are preserved. Reward choices stay manual. RestedXP's installed files and SavedVariables were not edited.
+
+Checks and limits
+
+The original addon regression tests passed. New tests passed 672 migration cases, including active and inactive saves, skipped steps, completed routes and faction switches. The installed RestedXP v4.11.22 parser passed all 448 dungeon, faction, class and settings combinations. Both factions register 28 guides each.
+
+This review checked dungeon availability and newly added or changed quest records against Blizzard's notes, current Forever quest pages, and the installed QuestieDB 1.0.6 snapshot. It confirmed that the Deadmines explosives chain, A Frightened Request, and the Hall of Thanes map prerequisite were already covered. Conflicting database-only changes were not used to replace confirmed quest text.
+
+This is not a fresh in-game test of every dungeon or a revalidation of every Classic quest. Interior coordinates, current NPC interactions, and the final gameplay flow still need in-game testing. Five future dungeon routes remain unverified.
+
+Sources checked on 17 October 2026
+
+Blizzard beta development notes, including the 1, 8 and 15 October updates:
+https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-15/2360696
+
+Blizzard clarification of Horde city access:
+https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-15/2360696/6
+
+Dungeon roster:
+https://www.wowhead.com/forever/guide/dungeons-overview-locations-details
+
+Dalaran quest and entrance overview:
+https://www.wowhead.com/forever/guide/city-of-dalaran-dungeon-overview-location-rewards
+
+Individual quest records:
+https://www.wowhead.com/forever/quest=92457/starving-arcane
+https://www.wowhead.com/forever/quest=92458/heart-of-disruption
+https://www.wowhead.com/forever/quest=96984/heart-of-disruption
+https://www.wowhead.com/forever/quest=93680/key-to-the-city
+https://www.wowhead.com/forever/item=277507/dalaran-sewer-key
+https://www.wowhead.com/forever/quest=92432/an-alarming-request
+https://www.wowhead.com/forever/quest=92459/friend-of-the-kirin-tor
+https://www.wowhead.com/forever/quest=97287/shrewd-negotiations
+https://www.wowhead.com/forever/quest=96987/opportunistic-education
+https://www.wowhead.com/forever/quest=96800/past-due
+https://www.wowhead.com/forever/quest=96393/old-ironforge-incursion
+https://www.wowhead.com/forever/quest=92753/destruction-in-deadmines
+https://www.wowhead.com/forever/quest=92401/a-frightened-request
+https://www.wowhead.com/forever/quest=95195/bloodied-insignia
+https://www.wowhead.com/forever/quest=97291/unending-torment
+https://www.wowhead.com/forever/quest=98815/highland-hides
+
+QuestieDB project and installed snapshot:
+https://github.com/Questie/QuestieDB
+Version 1.0.6, commit 36ca1ca86f6c1838de479c7c7452eb0a57d5c135.
+The snapshot was read from the installed Forever database on 17 October 2026.

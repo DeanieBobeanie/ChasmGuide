@@ -1,0 +1,30 @@
+{
+  "addon": "ChasmGuide",
+  "files": [
+    "ChasmGuide/Automation.lua",
+    "ChasmGuide/Catalog.lua",
+    "ChasmGuide/CatalogData.lua",
+    "ChasmGuide/ChasmGuide.toc",
+    "ChasmGuide/Dalaran.lua",
+    "ChasmGuide/Data.lua",
+    "ChasmGuide/Deadmines.lua",
+    "ChasmGuide/DungeonUpdate.lua",
+    "ChasmGuide/Engine.lua",
+    "ChasmGuide/Excavation.lua",
+    "ChasmGuide/LICENSE",
+    "ChasmGuide/Lordaeron.lua",
+    "ChasmGuide/Navigation.lua",
+    "ChasmGuide/Overview.lua",
+    "ChasmGuide/QUESTIEDB-LICENSE.md",
+    "ChasmGuide/QuestInfo.lua",
+    "ChasmGuide/README.md",
+    "ChasmGuide/RELEASE-NOTES.txt",
+    "ChasmGuide/Shadowfang.lua",
+    "ChasmGuide/SupplementalData.lua",
+    "ChasmGuide/THIRD-PARTY-NOTICES.md",
+    "ChasmGuide/Thanes.lua",
+    "ChasmGuide/UI.lua",
+    "ChasmGuide/WailingCaverns.lua",
+    "ChasmGuide/WowheadData.lua"
+  ]
+}
