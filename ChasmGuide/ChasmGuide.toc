@@ -2,7 +2,7 @@
 ## Title: Chasm Guide
 ## Notes: Forever dungeon quest guides, faction browser, optional waypoint arrow and quest automation.
 ## Author: Chasm Guide
-## Version: 1.3.0-beta.1
+## Version: 1.3.0-beta.2
 ## OptionalDeps: TomTom
 ## SavedVariablesPerCharacter: ChasmGuideDB
 Data.lua

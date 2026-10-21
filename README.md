@@ -6,7 +6,7 @@ Get your dungeon quests sorted before the group heads inside.
 
 Chasm Guide shows which quests to pick up, where to get them and what you need to do first. Pick a dungeon, check the quests for your faction, then follow the guide through pickups, objectives and turn-ins. Your place is saved between sessions.
 
-**[Download Chasm Guide](https://github.com/DeanieBobeanie/ChasmGuide/releases/tag/v1.3.0-beta.1)** · [Report a problem](https://github.com/DeanieBobeanie/ChasmGuide/issues)
+**[Download Chasm Guide](https://github.com/DeanieBobeanie/ChasmGuide/releases/tag/v1.3.0-beta.2)** · [Report a problem](https://github.com/DeanieBobeanie/ChasmGuide/issues)
 
 ## Install
 

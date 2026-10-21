@@ -1,3 +1,14 @@
+ChasmGuide 1.3.0-beta.2
+21 October 2026
+
+This release includes the README and screenshot update contributed by Hacker--x in PR #1. The repository now has clearer installation and usage instructions, cover artwork and three additional in-game screenshots. Gameplay behavior, quest data, saved progress and settings are unchanged from 1.3.0-beta.1.
+
+Install ChasmGuide-1.3.0-beta.2.zip into Interface/AddOns, keeping your WTF folder. Restart WoW and open the guide with /cguide. Existing beta 1 users do not need to update for gameplay fixes.
+
+This remains a beta for WoW Forever 1.60.1, interface 16001. Five catalog entries have no verified playable route. Full dungeon runs and live quest interactions still need in-game checks.
+
+Earlier route notes follow.
+
 ChasmGuide 1.3.0 and ChasmGuideRXP 1.1.0
 Reviewed 17 October 2026
 
