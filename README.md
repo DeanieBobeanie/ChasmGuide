@@ -21,6 +21,12 @@ Type `/cguide` to open the dungeon browser. Choose a dungeon and faction, review
 
 Use `/cguide restart` to revisit an updated route. See the [full player guide](ChasmGuide/README.md) for controls, route details and source links.
 
+## In-game screenshot
+
+![Chasm Guide showing the Horde Ragefire Chasm quest overview in WoW Forever](media/in-game.jpg)
+
+The Ragefire Chasm quest overview lists pickup locations, quest levels, prerequisites and sharing information before a dungeon run.
+
 ## Beta limits
 
 The catalog has 28 dungeon entries. Five are planning entries without verified playable routes. A catalog entry does not mean that dungeon is currently open or tested. Interior directions and quest interactions still need checks in the game.
