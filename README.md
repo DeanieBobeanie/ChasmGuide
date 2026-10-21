@@ -34,18 +34,18 @@ Open **Settings** or type `/cguide config` to enable the waypoint arrow or autom
 
 **Check your quests before the run.** Shadowfang Keep's Horde overview shows pickup locations, levels and which quests can be shared.
 
-![Shadowfang Keep quest overview in WoW Forever](assets/quest-overview.png)
+![Shadowfang Keep quest overview in WoW Forever](assets/quest-overview.jpg)
 
 <details>
 <summary>See the step-by-step guide and quest details</summary>
 
 **Follow the next step.** The guide keeps the current pickup, location and quest status together.
 
-![Chasm Guide showing the first Shadowfang Keep pickup step](assets/step-by-step-guide.png)
+![Chasm Guide showing the first Shadowfang Keep pickup step](assets/step-by-step-guide.jpg)
 
 **Look up a quest.** Open Details for pickup and turn-in locations, requirements and source links.
 
-![The Book of Ur quest details in Chasm Guide](assets/quest-details.png)
+![The Book of Ur quest details in Chasm Guide](assets/quest-details.jpg)
 
 </details>
 
